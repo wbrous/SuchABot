@@ -1,0 +1,56 @@
+{
+   "token": "GET from: https://discord.com/developers/applications",
+   "prefix": "//",
+   "ownerIDS": [
+      "958517194667479042",
+      "728565245194272818"
+   ],
+   "fnbr": "43549683-4cdb-4eb5-8f1c-1b88dc82d910",
+   "fortnitetracker": "ac53a1db-3988-4cf5-888f-2518a1501abb",
+   "memer_api": "OAX58L8AY10",
+   "status": {
+      "text": "{prefix}help | Coded by Gir0fa#6723",
+      "text2": "By: dsc.gg/dscdev",
+      "type": "WATCHING",
+      "url": "https://twitch.tv/gir0fa"
+   },
+   "backup_status": {
+      "text": "{prefix}help | Coded by Gir0fa#6723",
+      "text2": "By: dsc.gg/dscdev",
+      "type": "WATCHING",
+      "url": "https://twitch.tv/gir0fa"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "Racoon",
+            "secure": false
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "561dbd04c99a430891926de9d2a3c007",
+      "clientID": "1613db80ba9f4790bba00ad65841cb93"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "ksoft_api": {
+         "use_this_instead": true,
+         "api_key": "DISABLED"
+      }
+   }
+}

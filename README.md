@@ -132,7 +132,7 @@ That's why I'm asking everyone to join my [Discord Server](https://dsc.gg/dscdev
 # Credits
 
 Please credit Gir0fa.
-I spent a long time to gte this to work.
+I spent a long time to get this to work.
 You don't even have to do that much just keep Gir0fa#6723 in its status somewhere.
 
 Bot ORIGINALLY Coded by Tomato#6966 but maintaned by [Gir0fa#6723](https://dsc.gg/dscdev)

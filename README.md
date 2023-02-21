@@ -29,6 +29,7 @@ That's why I'm asking everyone to join my [Discord Server](https://dsc.gg/dscdev
  
   1. Download the [Source Code](https://github.com/wbrous/SuchABot/)
      * Either by: `git clone https://github.com/Tomato6966/Multipurpose-discord-bot`
+  2. Fill in API keys [here](https://github.com/wbrous/SuchABot#-where-to-get-which-api-keys)
   
 </details>
 

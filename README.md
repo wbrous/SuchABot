@@ -1,4 +1,4 @@
-# SuchABot
+# SuchABot (Ironically Discontinued)
 A discord bot originally made by Tomato#6966. He discontinued his Milrato bot so I am picking up what he made and making it better.
 
 # Public Bot!
@@ -137,3 +137,4 @@ I spent a long time to get this to work.
 You don't even have to do that much just keep Gir0fa#6723 in its status somewhere.
 
 Bot ORIGINALLY Coded by Tomato#6966 but maintaned by [Gir0fa#6723](https://dsc.gg/dscdev)
+
